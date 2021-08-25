@@ -1,5 +1,5 @@
 import React from "react";
-import { TextField } from "./Components/textFeild";
+import { TextField } from "./components/TextFieldComponent";
 
 const App: React.FC = () => {
   return (
